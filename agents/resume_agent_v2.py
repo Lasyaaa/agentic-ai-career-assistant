@@ -19,6 +19,7 @@ def analyze_resume_v2(resume_text):
         "ats_score": number,
         "skills": [],
         "strengths": [],
+        "projects": [],
         "weaknesses": [],
         "missing_skills": [],
         "recommended_roles": []
