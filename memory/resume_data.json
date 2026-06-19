@@ -1,0 +1,43 @@
+{
+    "ats_score": 90,
+    "skills": [
+        "Python",
+        "C++",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "Git",
+        "Figma",
+        "Canva",
+        "HTML",
+        "CSS",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "MERN Stack",
+        "Streamlit"
+    ],
+    "strengths": [
+        "Focused",
+        "Quick Learning",
+        "Problem-Solving skills",
+        "Communication Skills",
+        "Creative Skills",
+        "Leadership skills"
+    ],
+    "projects": [
+        "Real-Time Hospital Bed Availability System",
+        "Multimodal Breast Cancer Prediction",
+        "Agentic AI Career Assistant using Multi-Agent Systems and LLMs"
+    ],
+    "weaknesses": [],
+    "missing_skills": [],
+    "recommended_roles": [
+        "Software Developer",
+        "Data Analyst",
+        "Full Stack Developer",
+        "AI/ML Engineer"
+    ]
+}
