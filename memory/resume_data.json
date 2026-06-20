@@ -17,9 +17,7 @@
         "Express.js",
         "MongoDB",
         "MERN Stack",
-        "Streamlit",
-        "Power BI",
-        "JavaScript Essentials"
+        "Streamlit"
     ],
     "strengths": [
         "Focused",
@@ -39,7 +37,7 @@
     "recommended_roles": [
         "Software Developer",
         "Data Analyst",
-        "Full Stack Developer",
-        "Artificial Intelligence Engineer"
+        "Artificial Intelligence Engineer",
+        "Full Stack Developer"
     ]
 }
