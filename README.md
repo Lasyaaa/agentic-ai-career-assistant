@@ -194,7 +194,7 @@ agentic-ai-career-assistant/
 Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/Lasyaaa/agentic-ai-career-assistant.git
 cd agentic-ai-career-assistant
 ```
 
